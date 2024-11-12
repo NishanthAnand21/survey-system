@@ -47,7 +47,3 @@ While multi-user support is not yet available, it is planned for future updates.
 	}
 	```
 2. Run `install.php` to complete the setup.
-
-## Help Wanted
-
-This project is a work in progress. If you are interested in contributing to the development of this survey system, there may be issues or feature requests logged on GitHub. Feel free to suggest or implement features to meet your needs.
